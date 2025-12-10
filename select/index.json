@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Magic of Love",
+  "base_artist": "Perfume",
+  "createdAt": "2025-12-10T14:32:45.213830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Magic of Love",
+      "artist": "Sheena Easton",
+      "has_synced": false,
+      "path": "select/01_Magic_of_Love_Sheena_Easton.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Magic of Love (Live)",
+      "artist": "Janis Joplin",
+      "has_synced": false,
+      "path": "select/02_Magic_of_Love_(Live)_Janis_Joplin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Magic Of Love [Live]",
+      "artist": "Janis Joplin",
+      "has_synced": false,
+      "path": "select/03_Magic_Of_Love_[Live]_Janis_Joplin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Magic of Love",
+      "artist": "Janis Joplin",
+      "has_synced": false,
+      "path": "select/04_Magic_of_Love_Janis_Joplin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Magic of Love - Live",
+      "artist": "Big Brother & The Holding Company",
+      "has_synced": true,
+      "path": "select/05_Magic_of_Love_-_Live_Big_Brother_&_The_Holding_Company.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Magic of Love (live)",
+      "artist": "Big Brother & the Holding Company",
+      "has_synced": true,
+      "path": "select/06_Magic_of_Love_(live)_Big_Brother_&_the_Holding_Company.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Magic of Love(Album-mix) - Album-Mix",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/07_Magic_of_Love(Album-mix)_-_Album-Mix_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Magic of Love (Album-mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/08_Magic_of_Love_(Album-mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Magic Of Love (Live) (Previously Unreleased)",
+      "artist": "Big Brother & The Holding Company",
+      "has_synced": true,
+      "path": "select/09_Magic_Of_Love_(Live)_(Previously_Unreleased)_Big_Brother_&_The_Holding_Company.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Magic of Love",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_Magic_of_Love_Perfume.txt"
+    }
+  ]
+}
